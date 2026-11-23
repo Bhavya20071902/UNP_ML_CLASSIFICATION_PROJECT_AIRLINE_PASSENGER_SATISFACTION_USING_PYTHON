@@ -1,4 +1,4 @@
-# UNP_ML_CLASSIFICATION_PROJECT_AIRLINE_PASSENGAR_SATISFACTION_USING_PYTHON
+# UNP_ML_CLASSIFICATION_PROJECT_AIRLINE_PASSENGER_SATISFACTION_USING_PYTHON
 
 I completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP), and it was executed as a collaborative group project.
 
